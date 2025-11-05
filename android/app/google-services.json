@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429237501245",
+    "project_id": "confapp-3a6fd",
+    "storage_bucket": "confapp-3a6fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429237501245:android:7b9b3065427497ea935954",
+        "android_client_info": {
+          "package_name": "com.example.conf_future_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPJIh7NiM5t3bYAgZSwUhwLmEADeZwN30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
